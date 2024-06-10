@@ -1,1 +1,13 @@
+# Camino con Obstáculos
 
+Para este apartado queremos implementar una serie de obstaculos que permitirán aumentar la dificultad del juego.
+
+## Descripción de la Idea
+
+Los obstáculos tiene un enfoque principal en aumentar la dificultad de la carrera, esta dificultad varia de acuerdo a los obstaculos que aparezcan; De esta forma los jugadores no se aburriran a medida que se repite el juego.
+
+## Características
+
+- **Salto de objetos**: Los jugadores tienen que resolver un problema matématico sencillo para poder saltar el objeto, tendrán un temporizador si no logran responder en el tiempo indicado no lograrán pasar el obstáculo.
+- **Escalar**: Deben Resolver un rompezabezas sencillo antes de que se acabe el tiempo.
+- **Varios caminos**: al resolver de forma correcta el ejercicio, les aparecerá el camino correcto para llegar a la meta.
