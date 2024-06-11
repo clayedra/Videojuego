@@ -33,9 +33,9 @@ La personalización de caballos permite a los jugadores modificar el aspecto de 
 
 #### Imágenes
 
-![Caballo Personalizado 1](images/caballo1.png)
-![Caballo Personalizado 2](images/caballo2.png)
-![Caballo Personalizado 3](images/caballo3.png)
+![Caballo Personalizado 1](caballo1.png)
+![Caballo Personalizado 2](caballo2.png)
+![Caballo Personalizado 3](caballo3.png)
 
 ### Camino con Atajos
 
